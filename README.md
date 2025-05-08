@@ -26,4 +26,38 @@ This project aims to:
 ---
 
 ## 📁 Project Structure
+carbon-emission-analysis/
+├── app.py # Streamlit dashboard application
+├── filtered_emissions.csv # Cleaned emissions dataset (1930–2023)
+├── sd01.csv # Trade statistics dataset
+├── edgar.csv # Sector-wise CO₂ emissions dataset (EDGAR)
+├── README.md # This file
+├── requirements.txt # Required Python libraries
+
+
+---
+
+## 🔧 How to Run
+
+### 1. Clone the Repository
+git clone https://github.com/devsp2501/carbon-emission-analysis.git
+cd carbon-emission-analysis
+
+### 2. Install Dependencies
+pip install -r requirements.txt
+
+### 3. Run the Dashboard
+streamlit run app.py
+
+---
+
+## 🚀 Live Demo
+
+Try the live interactive dashboard hosted on Streamlit Cloud or any cloud platform:
+
+🔗 [Click here to view the live demo](https://carbon-emission-analysis.streamlit.app/)  
+_(If not live, run locally using the steps above)_
+
+---
+
 
