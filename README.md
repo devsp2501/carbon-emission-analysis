@@ -55,7 +55,7 @@ streamlit run app.py
 
 Try the live interactive dashboard hosted on Streamlit Cloud or any cloud platform:
 
-🔗 [Click here to view the live demo](https://carbon-emission-analysis.streamlit.app/)  
+🔗 [Click here to view the live demo](https://carbon-emission-analysis-2ntcfq9gpbq3fquunrgdor.streamlit.app/)  
 _(If not live, run locally using the steps above)_
 
 ---
